@@ -1,0 +1,8 @@
+/assets/*
+/dist/*
+dist/*
+coverage/*
+node_modules
+custom.d.ts
+**/*.spec.js
+/containers/ReportIncidentPage/steps/*
